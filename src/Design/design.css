@@ -1,0 +1,15 @@
+.carasoleBack {
+  /* background-image: url("back.jpg"); */
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+@media only screen and (min-width: 1200px) {
+    .carasoleBack{
+        margin: 0px 100px;
+    }
+  }
+@media only screen and (min-width: 1000px) {
+    .carasoleBack{
+        margin: 0px 0px;
+    }
+}
